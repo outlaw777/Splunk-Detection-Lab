@@ -32,7 +32,7 @@ Identify critical data sources on the target host such as logs (e.g., Windows Ev
 
 Example below.
 
-Ref 1-28:  Telemetry generation tools to create realistic malware and attack scenarios
+Ref 1-28:  Tools to create realistic malware and attack scenarios
 
 ![kali1](https://github.com/outlaw777/Splunk-Detection-Lab/assets/156555250/5beb67d5-88a8-4e8f-8a78-baede3231d94)
 

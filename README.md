@@ -6,7 +6,7 @@ This lab simulates real-world attack scenarios using controlled telemetry genera
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 Identify critical data sources on the target host such as:
 
@@ -26,7 +26,7 @@ This hands-on experience was designed to deepen understanding of:
 
 ---
 
-## 🧠 Skills Learned
+##  Skills Learned
 
 - Advanced understanding of SIEM concepts and practical application  
 - Proficiency in analyzing and interpreting network logs  
@@ -36,7 +36,7 @@ This hands-on experience was designed to deepen understanding of:
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 - **SIEM Platform** — log ingestion, parsing, correlation, and analysis  
 - **Network Analysis Tools** (e.g., Wireshark) — capture and examine network traffic  
@@ -45,7 +45,7 @@ This hands-on experience was designed to deepen understanding of:
 
 ---
 
-## 📐 Steps
+##  Steps
 
 Below is an example workflow demonstrating how telemetry was generated using offensive tools to simulate realistic attack behavior.
 
@@ -185,7 +185,7 @@ These steps simulate reconnaissance, enumeration, exploitation attempts, and pos
 
 ---
 
-## 📄 Summary
+##  Summary
 
 This lab provides a structured environment for:
 
@@ -199,14 +199,14 @@ It serves as a foundational exercise for anyone pursuing detection engineering, 
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions, enhancements, and additional attack scenarios are welcome.  
 Please open an issue or submit a pull request.
 
 ---
 
-## 📜 License
+##  License
 
 This project is licensed under the MIT License.
 
